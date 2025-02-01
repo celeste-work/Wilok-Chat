@@ -1,6 +1,6 @@
-# WILOK - Aplicación de Chat
+# Wilok! - Aplicación de Chat
 
-**WILOK** es una aplicación de chat desarrollada con JavaScript, HTML y CSS, diseñada para conectar a personas con sus amigos, familiares y conocidos. Con esta app, puedes disfrutar de una experiencia de mensajería en tiempo real, tanto en conversaciones individuales como grupales.
+**Wilok!** es una aplicación de chat desarrollada con JavaScript, HTML y CSS, diseñada para conectar a personas con sus amigos, familiares y conocidos. Con esta app, puedes disfrutar de una experiencia de mensajería en tiempo real, tanto en conversaciones individuales como grupales.
 
 ## 🚀 Funcionalidades
 
